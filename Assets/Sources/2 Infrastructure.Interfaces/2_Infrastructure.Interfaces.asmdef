@@ -1,0 +1,14 @@
+{
+    "name": "2_Infrastructure.Interfaces",
+    "rootNamespace": "HappyFarm.InfrastructureInterfaces",
+    "references": ["GUID:f257e786f71fafa438f246670a6727ce"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

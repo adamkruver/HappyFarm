@@ -1,0 +1,64 @@
+﻿{
+  "Collection": [
+    {
+      "_type": "Egglant",
+      "_harvestTime": 20,
+      "_growTime": 17,
+      "_price": 1,
+      "_additionalCost": 1,
+      "_experience" : 7,
+      "_iconPath" : "Plants/Icons/Egglant/Egglant_Icon_256x256_0",
+      "_growSprites": [
+        "Plants/Tiles/Egglant/Egglant_StageOfGrowth_512x512_1",
+        "Plants/Tiles/Egglant/Egglant_StageOfGrowth_512x512_2"
+      ],
+      "_harvestSprite": "Plants/Tiles/Egglant/Egglant_StageOfGrowth_512x512_3",
+      "_rottenSprite": "Plants/Tiles/Egglant/Egglant_StageOfGrowth_512x512_4"
+    },
+    {
+      "_type": "Pumkin",
+      "_harvestTime": 10,
+      "_growTime": 30,
+      "_price": 2,
+      "_additionalCost": 1,
+      "_experience" : 13,
+      "_iconPath" : "Plants/Icons/Pumkin/Pumkin_Icon_256x256_0",
+      "_growSprites": [
+        "Plants/Tiles/Pumkin/Pumkin_StageOfGrowth_512x512_1",
+        "Plants/Tiles/Pumkin/Pumkin_StageOfGrowth_512x512_2"
+      ],
+      "_harvestSprite": "Plants/Tiles/Pumkin/Pumkin_StageOfGrowth_512x512_3",
+      "_rottenSprite": "Plants/Tiles/Pumkin/Pumkin_StageOfGrowth_512x512_4"
+    },
+    {
+      "_type": "Watermelon",
+      "_harvestTime": 15,
+      "_growTime": 37,
+      "_price": 3,
+      "_additionalCost": 2,
+      "_experience" : 17,
+      "_iconPath" : "Plants/Icons/Watermelon/Watermelon_Icon_256x256_0",
+      "_growSprites": [
+        "Plants/Tiles/Watermelon/Watermelon_StageOfGrowth_512x512_1",
+        "Plants/Tiles/Watermelon/Watermelon_StageOfGrowth_512x512_2"
+      ],
+      "_harvestSprite": "Plants/Tiles/Watermelon/Watermelon_StageOfGrowth_512x512_3",
+      "_rottenSprite": "Plants/Tiles/Watermelon/Watermelon_StageOfGrowth_512x512_4"
+    },
+    {
+      "_type": "Beet",
+      "_harvestTime": 5,
+      "_growTime": 10,
+      "_price": 5,
+      "_additionalCost": 3,
+      "_experience" : 24,
+      "_iconPath" : "Plants/Icons/Beet/Beet_Icon_256x256_0",
+      "_growSprites": [
+        "Plants/Tiles/Beet/Beet_StageOfGrowth_512x512_1",
+        "Plants/Tiles/Beet/Beet_StageOfGrowth_512x512_2"
+      ],
+      "_harvestSprite": "Plants/Tiles/Beet/Beet_StageOfGrowth_512x512_3",
+      "_rottenSprite": "Plants/Tiles/Beet/Beet_StageOfGrowth_512x512_4"
+    }
+  ]
+}

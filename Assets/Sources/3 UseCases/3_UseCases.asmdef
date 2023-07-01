@@ -1,0 +1,17 @@
+{
+    "name": "3_UseCases",
+    "rootNamespace": "HappyFarm.UseCases",
+    "references": [
+        "GUID:f12408180bfcaf24e9369e1fd298f3a8",
+        "GUID:f257e786f71fafa438f246670a6727ce"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

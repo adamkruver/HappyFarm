@@ -1,0 +1,14 @@
+{
+    "name": "6_Infrastructure",
+    "rootNamespace": "HappyFarm.Infrastructure",
+    "references": ["GUID:f12408180bfcaf24e9369e1fd298f3a8","GUID:f91d09605c91e8d418fa7b44e6463f3d","GUID:f257e786f71fafa438f246670a6727ce","GUID:642d175fc74049c48aab768021114ef1"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "5_Controllers",
+    "rootNamespace": "HappyFarm.Controllers",
+    "references": ["GUID:dca5d4e73ead39c43b3b8f7a45479690","GUID:f12408180bfcaf24e9369e1fd298f3a8","GUID:f257e786f71fafa438f246670a6727ce","GUID:f408479153aa65c458df256a350ba918","GUID:cb9f3371a24e0a74180887866889444e"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "5_1_ApplicationServices",
+    "rootNamespace": "HappyFarm.ApplicationServices",
+    "references": [
+        "GUID:cb9f3371a24e0a74180887866889444e",
+        "GUID:f257e786f71fafa438f246670a6727ce",
+        "GUID:f12408180bfcaf24e9369e1fd298f3a8",
+        "GUID:f408479153aa65c458df256a350ba918",
+        "GUID:f91d09605c91e8d418fa7b44e6463f3d",
+        "GUID:dca5d4e73ead39c43b3b8f7a45479690"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
